@@ -19,8 +19,8 @@ Repository inițializat. Codul, documentația tehnică, diagramele, prezentarea 
 
 ## Echipa
 
-- Christian
-- <coleg>
+- Xhamani Christian
+- Smarandoiu Eduard Stefan
 
 ## Utilizarea instrumentelor AI
 
